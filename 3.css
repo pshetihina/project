@@ -1,0 +1,26 @@
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    padding: 35px;
+    text-align: center;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px solid black;
+    background-color: beige;
+    padding: 15px;
+    margin: 5px;
+}
+
+#imprt {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(110, 65, 21, 0.687);
+    font-size: medium;
+}
+
+.aboutMice {
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px solid black;
+    color: rgba(42, 40, 40, 0.46);
+}
+
